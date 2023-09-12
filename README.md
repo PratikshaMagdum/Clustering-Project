@@ -1,6 +1,7 @@
 # Clustering-Project
 # Cluster Analysis
-# Business Objective: Creating clusters on global development measurement dataset
+# Business Objective: 
+Creating clusters on global development measurement dataset
 # Data Set Details:
 The dataset is having information about important economic and development metrics related to various countries across the globe. 
 # Variable Description:
